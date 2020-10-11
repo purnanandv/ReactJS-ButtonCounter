@@ -3,7 +3,7 @@
 # Author: Purnanand Wasave
 View the live project in browser 
 Follow the steps:
-1) [Click Here](https://gitpod.io/#/github.com/purnanandv/ReactJS-TodoApp/tree/master)
+1) [Click Here](https://gitpod.io/#/github.com/purnanandv/ReactJS-ButtonCounter/tree/master)
 
 2) Go to terminal and run following command
  ```bash
